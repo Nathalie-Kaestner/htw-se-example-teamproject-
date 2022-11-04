@@ -1,4 +1,16 @@
 == Teammitglieder
 
-*Nathalie Kästner* 
-*Hieu Trung Thi*
+*Nathalie Kästner* ||
+*Hieu Trung Thi* ||
+
+=== Teammitglieder und Rollen
+
+[#table01]
+[cols="^1,2"]
+
+|===
+| Teammitglied      | Rolle                
+
+|Nathalie Kästner   | Teamführer  
+|Hieu Trun Thi      | Analyst          
+|===
